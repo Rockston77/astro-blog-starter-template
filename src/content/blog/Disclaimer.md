@@ -1,8 +1,10 @@
 ---
-layout: ../layouts/BlogPost.astro
-title: "Disclaimer & Terms of Use"
-description: "Educational disclaimer and terms of use for this website."
+title: "Disclaimer"
+description: "Disclaimer of this website"
+pubDate: "Jul 08 2026"
+heroImage: "/blog-placeholder-3.jpg"
 ---
+
 
 Please read this Disclaimer carefully before navigating **PostConnect** ("the Website", "we", "us"). By accessing this Website, you agree to these terms. If you do not agree, please discontinue use immediately.
 
@@ -17,7 +19,6 @@ Please read this Disclaimer carefully before navigating **PostConnect** ("the We
 * [6. External Links](#6-external-links)
 * [7. Affiliate & Ad Disclosures](#7-affiliate--ad-disclosures)
 * [8. Intellectual Property](#8-intellectual-property)
-* [9. Contact Us](#9-contact-us)
 
 ---
 
@@ -48,6 +49,3 @@ To support hosting costs, this Website may contain contextual ads or affiliate l
 
 ## 8. Intellectual Property
 Unless stated otherwise, all original content is the intellectual property of this Website. You may share brief excerpts (up to 200 words) with clear attribution and a backlink to the original page.
-
-## 9. Contact Us
-If you have questions about this disclaimer, contact us at: [contact@yourdomain.com](mailto:contact@yourdomain.com)
